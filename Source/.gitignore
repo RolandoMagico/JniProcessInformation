@@ -1,0 +1,15 @@
+/.vs
+/Common/*.aps
+/ProcessInformation*/.vs
+/ProcessInformation*/*.user
+/ProcessInformation*/bin/Debug
+/ProcessInformation*/obj
+/ProcessInformation*/bin/Release/*/*.exp
+/ProcessInformation*/bin/Release/*/*.iobj
+/ProcessInformation*/bin/Release/*/*.ipdb
+/ProcessInformation*/bin/Release/*/*.lib
+/ProcessInformation*/bin/Release/*/*.pdb
+/ProcessInformation*/bin/Release/*/*.metagen
+/ProcessInformation*.Tests/bin
+/ProcessInformation*.Tests/Properties/launchSettings.json
+/ProcessInformation.Java/**/*.class
