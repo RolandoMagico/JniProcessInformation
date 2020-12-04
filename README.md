@@ -1,2 +1,2 @@
 # ProcessInformation
-Reading process information prior Java 9
+Reading windows process information prior Java 9 using JNI
